@@ -8,7 +8,9 @@ Test task for a job application at **Cyber Speed**.
 Run the following command:  
 ```sh
 ./gradlew shadowJar
-###2. Run the Application
+```
+### 2. Run the Application
 ```sh
 java -jar ./build/libs/cyberspeed-test-1.0-SNAPSHOT.jar --config ./src/main/resources/config.json --betting-amount 10
+```
 
